@@ -54,8 +54,8 @@ streamlit run dashboard_streamlit_app.py
    ```
 
 2. **Update README.md**:
-   - Replace `YOUR_USERNAME` with your GitHub username
-   - Add your real email
+   - ✅ GitHub username updated to MichaelTheAnalyst
+   - ✅ Email updated to michaelnazary@gmail.com
    - Update performance metrics (if you have them)
 
 3. **Add screenshots**:
@@ -85,7 +85,7 @@ git status
 git commit -m "feat: initial commit - complete dashboard system"
 
 # Create GitHub repo (on github.com), then:
-git remote add origin https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub.git
+git remote add origin https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub.git
 git branch -M main
 git push -u origin main
 ```

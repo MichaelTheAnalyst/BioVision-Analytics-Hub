@@ -121,8 +121,8 @@ Save to `assets/` folder and update README.md
 ### 5. Update Placeholders in README
 
 Search and replace:
-- `YOUR_USERNAME` → your GitHub username
-- `masood.nazari@example.com` → your email
+- `YOUR_USERNAME` → MichaelTheAnalyst (already updated!)
+- Email → michaelnazary@gmail.com (already updated!)
 - Add real performance metrics
 - Update screenshot links
 

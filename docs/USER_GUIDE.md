@@ -520,9 +520,9 @@ param_distributions = {
 
 Need help? Contact:
 
-- **Email**: masood.nazari@example.com
+- **Email**: michaelnazary@gmail.com
 - **LinkedIn**: [Masood Nazari](https://www.linkedin.com/in/masood-nazari)
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub/issues)
+- **Issues**: [GitHub Issues](https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub/issues)
 
 ---
 

@@ -118,10 +118,10 @@ git --version
 
 ```bash
 # Using HTTPS
-git clone https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub.git
+git clone https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub.git
 
 # OR using SSH
-git clone git@github.com:YOUR_USERNAME/BioVision-Analytics-Hub.git
+git clone git@github.com:MichaelTheAnalyst/BioVision-Analytics-Hub.git
 
 # Navigate to directory
 cd BioVision-Analytics-Hub
@@ -430,8 +430,8 @@ After successful installation:
 
 ## 📧 Still Having Issues?
 
-- **Open an issue**: [GitHub Issues](https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub/issues)
-- **Email**: masood.nazari@example.com
+- **Open an issue**: [GitHub Issues](https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub/issues)
+- **Email**: michaelnazary@gmail.com
 - **LinkedIn**: [Masood Nazari](https://www.linkedin.com/in/masood-nazari)
 
 ---

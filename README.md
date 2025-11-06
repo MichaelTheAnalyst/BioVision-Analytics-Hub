@@ -97,7 +97,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub.git
+git clone https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub.git
 cd BioVision-Analytics-Hub
 ```
 
@@ -363,7 +363,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 
 ```bash
 # Clone and setup
-git clone https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub.git
+git clone https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub.git
 cd BioVision-Analytics-Hub
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -400,17 +400,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 AI Engineer | Data Engineer | Data Science Enthusiast  
 📍 Southampton, UK  
 🔗 [LinkedIn](https://www.linkedin.com/in/masood-nazari)  
-📧 [Email](mailto:your.email@example.com)  
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+📧 [Email](mailto:michaelnazary@gmail.com)  
+🐙 [GitHub](https://github.com/MichaelTheAnalyst)
 
 ---
 
 ## 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/BioVision-Analytics-Hub?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/BioVision-Analytics-Hub?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/BioVision-Analytics-Hub)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YOUR_USERNAME/BioVision-Analytics-Hub)
+![GitHub stars](https://img.shields.io/github/stars/MichaelTheAnalyst/BioVision-Analytics-Hub?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MichaelTheAnalyst/BioVision-Analytics-Hub?style=social)
+![GitHub issues](https://img.shields.io/github/issues/MichaelTheAnalyst/BioVision-Analytics-Hub)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MichaelTheAnalyst/BioVision-Analytics-Hub)
 
 ---
 

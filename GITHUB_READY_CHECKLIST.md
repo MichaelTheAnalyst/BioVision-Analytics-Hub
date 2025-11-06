@@ -168,8 +168,8 @@ streamlit run src/dashboard/app.py
 
 ```bash
 # Replace placeholders:
-# - YOUR_USERNAME → your GitHub username
-# - masood.nazari@example.com → your real email
+# - YOUR_USERNAME → MichaelTheAnalyst (✅ DONE!)
+# - Email → michaelnazary@gmail.com (✅ DONE!)
 # - Add actual performance metrics
 # - Add real screenshot links
 ```

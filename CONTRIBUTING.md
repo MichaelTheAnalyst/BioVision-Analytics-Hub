@@ -96,7 +96,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 ```bash
 # 1. Fork and clone
-git clone https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub.git
+git clone https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub.git
 cd BioVision-Analytics-Hub
 
 # 2. Create virtual environment
@@ -373,7 +373,7 @@ Contributors will be recognized in:
 Feel free to:
 
 - **Open an issue**: For questions or discussions
-- **Email**: masood.nazari@example.com
+- **Email**: michaelnazary@gmail.com
 - **LinkedIn**: [Masood Nazari](https://www.linkedin.com/in/masood-nazari)
 
 ---

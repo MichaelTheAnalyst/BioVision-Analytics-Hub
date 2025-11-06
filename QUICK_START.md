@@ -20,7 +20,7 @@ git --version
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub.git
+git clone https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub.git
 cd BioVision-Analytics-Hub
 
 # Create virtual environment
@@ -167,9 +167,9 @@ Edit Plotly charts:
 
 ## 🆘 Need Help?
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub/issues)
+- **Issues**: [GitHub Issues](https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub/issues)
 - **Docs**: Check `docs/` folder
-- **Email**: masood.nazari@example.com
+- **Email**: michaelnazary@gmail.com
 
 ---
 

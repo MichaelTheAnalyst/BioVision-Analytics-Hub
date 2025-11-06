@@ -167,9 +167,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute to this project.
 
 ## Links
 
-- **Repository**: https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub
-- **Issues**: https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub/issues
-- **Releases**: https://github.com/YOUR_USERNAME/BioVision-Analytics-Hub/releases
+- **Repository**: https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub
+- **Issues**: https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub/issues
+- **Releases**: https://github.com/MichaelTheAnalyst/BioVision-Analytics-Hub/releases
 
 ---
 
